@@ -26,4 +26,4 @@ The script performs the following:
   * pyProj (Python 3.4 required)
   * Bokeh
 
-![](/2. NLTK/NLTKImage.jpg)
+![](/2.%NLTK/NLTKImage.jpg)
