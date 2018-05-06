@@ -1,0 +1,16 @@
+<xsi:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.geog.leeds.ac.uk" xmlns="http://www.geog.leeds.ac.uk" elementFormDefault="qualified">
+<xsi:element name="map">
+<xsi:complexType>
+<xsi:sequence>
+<xsi:element name="polygon"  minOccurs="0" maxOccurs="unbounded">
+<xsi:complexType>
+<xsi:sequence>
+<xsi:element name="points" type="xsi:string"/>
+</xsi:sequence>
+<xsi:attribute name="id" type="xsi:ID"/>
+</xsi:complexType>
+</xsi:element>
+</xsi:sequence>
+</xsi:complexType>
+</xsi:element>
+</xsi:schema>

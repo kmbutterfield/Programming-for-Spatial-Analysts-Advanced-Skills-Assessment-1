@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "map1.dtd">
+<map>
+<polygon id="p1">
+     <points>100,100 200,100 200,200 100,000 100,100</points>
+</polygon>
+</map>

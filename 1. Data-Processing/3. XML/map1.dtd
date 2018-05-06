@@ -1,0 +1,4 @@
+<!ELEMENT map (polygon)* >
+<!ELEMENT polygon (points) >
+<!ATTLIST polygon id ID #IMPLIED >
+<!ELEMENT points (#PCDATA) >
